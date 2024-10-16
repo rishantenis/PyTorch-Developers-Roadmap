@@ -59,6 +59,7 @@ import torch.nn as nn
 import torch.optim as optim
 ```
 
+
 **Step 3: Creating a Simple Neural Network**
 
 Let's create a basic feedforward neural network with one hidden layer. We'll define the network architecture as a Python class.
